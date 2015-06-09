@@ -6,8 +6,7 @@ setup(
   description = 'A test for publishing kyper library',
   author = 'ITzu Chen',
   author_email = 'itzu.chen@kyperdata.com',
-  url = '', # use the URL to the github repo
-  download_url = '', # I'll explain this in a second
+  url = 'https://github.com/its-c/test_publish_kyper_lib', # use the URL to the github repo
   keywords = ['testing', 'logging', 'example'], # arbitrary keywords
   classifiers = [],
 )
