@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = 'test_publish',
-  packages = ['test_publish'], # this must be the same as the name above
+  name = 'kyper-test-publish',
+  packages = ['kyper-test-publish'], # this must be the same as the name above
   version = '0.1',
   description = 'A test for publishing kyper library',
   author = 'ITzu Chen',
